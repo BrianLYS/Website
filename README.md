@@ -18,4 +18,7 @@ Next allows rendering HTML on server; user gets content quicker e.g "First Paint
 Static Generation: Render all pages at build time
 -Data may become stale
 -Hard to scale to many pages
--
+
+Server-side rendering: Generate each page at request time
+-slower
+-inefficient data caching
